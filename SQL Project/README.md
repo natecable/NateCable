@@ -1,3 +1,13 @@
+## Contents
+- 3 interfaces to interact with a database using JDBC, each with their own privileges.
+- Java program used as a driver for the interfaces.
+
+## About
+- This project was completed for a Database Systems course.
+- The interfaces act as user interactions with a car rental company.
+- Below is the original text submitted along side the project.
+---
+
 Nate Cable
 
 For data generation, I used an online resource to generate 100 customers, 200 vehicles, and 20 stores
@@ -8,6 +18,7 @@ PL/SQL procedures are used within the manager interface to delete customers and 
 
 
 GETTING STARTED:
+
     1) You will first be prompted to login to the Oracle Database on Edgar1
 
     2) After establishing a database connection, a menu will appear with 4 interface options:
