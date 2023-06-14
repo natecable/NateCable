@@ -95,10 +95,10 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 ### [Oracle x OpenCBDC](OracleCBDC/)
 - Desc.
 
-### [Solidity Automated Market Maker](Solidiy AMM/)
+### [Solidity Automated Market Maker](Solidiy\ AMM/)
 - Short description about the project and your role in it.
 
-### [Oracle SQL Database Project](SQL Porject/)
+### [Oracle SQL Database Project](SQL\ Porject/)
 
 ### [Bioinformatics Projects](Bioinformatics/)
 
