@@ -16,8 +16,10 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 ## Education
 
 ### Bachelor of Science in Computer Science (EN)
-**Lehigh University** - Bethlehem, PA
-*Expected Graduation: May 2024*
+
+   **Lehigh University** - Bethlehem, PA
+
+   *Expected Graduation: May 2024*
 
 ---
 
@@ -87,18 +89,20 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 
 ## Projects
 
-### Blockchain Benchmarking Standardized Framework
+### [Blockchain Benchmarking Standardized Framework](BBSF/)
 - Short description about the project and your role in it.
 
-### Oracle x OpenCBDC 
+### [Oracle x OpenCBDC](OracleCBDC/)
 - Desc.
 
-### Solidity AMM
+### [Solidity Automated Market Maker](Solidiy AMM/)
 - Short description about the project and your role in it.
 
-### 
+### [Oracle SQL Database Project](SQL Porject/)
 
-### 
+### [Bioinformatics Projects](Bioinformatics/)
+
+
 
 ---
 
