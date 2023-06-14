@@ -1,0 +1,2 @@
+javac SequenceAlignment.java
+java SequenceAlignment
