@@ -1,9 +1,7 @@
 # Nathaniel Cable | Computer Science Engineer
 
 ### Contact
-- Address:  541 Hillside Ave, Bethlehem, PA
 - Email:  natecable0@gmail.com
-- Phone: (570)-472-5815
 - [LinkedIn](www.linkedin.com/in/nate-r-cable)
 
 ---
