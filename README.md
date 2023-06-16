@@ -87,6 +87,7 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 
 - Blockchain Systems and Decentralization
 - Smart Contract Development
+- Software Development
 - Machine Learning and AI
 - Cycling
 - Volunteering
