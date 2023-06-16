@@ -1,4 +1,4 @@
-## Bioinformatics
+# Bioinformatics
 - Contents are solo projects completed for my course in Bioinformatics
 
 ### Phylogenetic Tree
