@@ -66,19 +66,19 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 ### [Blockchain Benchmarking Standardized Framework](BBSF/)
 - My current research regarding the standardization of blockchain benchmarks.
 
-### [Oracle x OpenCBDC](OracleCBDC/)
+### [Oracle x OpenCBDC](OracleOpenCBDC/)
 - A team project through Lehigh University sponsored by Oracle to port [OpenCBDC](https://dci.mit.edu/opencbdc) to an Oracle Database
 
-### [Solidity Automated Market Maker](Solidiy-AMM/)
+### [Solidity Automated Market Maker](Solidiy%20AMM/)
 - An AMM in Solidity that I worked on as a project for my Blockchain Systems and Algorithms course.
 
-### [Oracle SQL Database Project](SQL-Project/)
+### [Oracle SQL Database Project](SQL%20Project/)
 - A project that I completed for a Databases course that utilizes a JDBC and an Oracle Database.
 
 ### [Bioinformatics Projects](Bioinformatics/)
 - Independent projects I completed for a course in Bioinformatics, mostly dealing with nucleotide sequencing and aligning.
 
-### [My Blockchain](My-Blockchain/)
+### [My Blockchain](My%20Blockchain/)
 - A group project in my blockchain course where we implemented a blockchain in Java.
 
 
