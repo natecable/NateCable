@@ -2,7 +2,7 @@
 
 ### Contact
 - Email:  natecable0@gmail.com
-- [LinkedIn](https://linkedin.com/in/nate-r-cable)
+- [LinkedIn](https://linkedin.com/in/nate-r-cable) **Currently Unavailable, Account was randomly deleted** :(
 
 ---
 
