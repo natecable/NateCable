@@ -8,7 +8,7 @@
 
 ## Career Objective
 
-Current undergraduate student pursuing a BS in Computer Science Engineering.  I am seeking to gain technical and cultural experience in my field through an internship while putting my programming and critical thinking skills to the test.  My goal is to both learn about various opportunities within my field and strengthen my programming capabilities.
+I am eager to leverage my passion for decentralized technology and my strong foundation in computer science to launch a career in the blockchain industry. With a keen interest in blockchain's transformative potential, I am committed to contributing my technical skills, problem-solving abilities, and adaptability to address complex challenges within the field. Seeking an opportunity to join a visionary team where I can apply my knowledge and collaborate on innovative solutions that have a lasting impact on the world.
 
 ---
 
@@ -26,22 +26,26 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 
 ### Programming Languages
 
+**Proficient:**
 - Java
-- C
-- C++
+- C/C++
+- Oracle SQL
+
+**Familiar:**
 - Rust
 - Move
 - Solidity
 - Python
-- SQL
 - PL/SQL
-- R
-- Dart
 - JavaScript
+- Bash
+- R
+
+**Basic:**
+- Dart
 - TypeScript
 - HTML
 - CSS
-- Bash
 
 ### Software
 
@@ -62,7 +66,7 @@ Current undergraduate student pursuing a BS in Computer Science Engineering.  I 
 ## Projects
 
 ### [Blockchain Benchmarking Standardized Framework](BBSF/)
-- My current research regarding the standardization of blockchain benchmarks.
+- My current research regarding the standardization of blockchain benchmarks for both Layer 1 and Layer 2 chains
 
 ### [Oracle x OpenCBDC](OracleOpenCBDC/)
 - A team project through Lehigh University sponsored by Oracle to port [OpenCBDC](https://dci.mit.edu/opencbdc) to an Oracle Database
