@@ -1,0 +1,12 @@
+[package]
+name = "rustchain"
+version = "0.1.0"
+edition = "2021"
+author = "Nate Cable"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+merkle = { path = "../merkle" }
+num-bigint = "0.4.4"
+rug = "1.10"
