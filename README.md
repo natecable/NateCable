@@ -71,6 +71,9 @@ I am eager to leverage my passion for decentralized technology and my strong fou
 ### [Oracle x OpenCBDC](OracleOpenCBDC/)
 - A team project through Lehigh University sponsored by Oracle to port [OpenCBDC](https://dci.mit.edu/opencbdc) to an Oracle Database
 
+### [LFGHO EthGlobal Hackathon](korthathon/)
+- A project I worked on for the LFGHO EthGlobal Hackathon with 2 other teammates. We created a multi-signature wallet for AAVE's GHO stablecoin along with a Javascript library for users to easily interact with the wallet. Our project made it to the final round of judging, but unfortunately did not win.
+
 ### [Solidity Automated Market Maker](Solidiy-AMM/)
 - An AMM in Solidity that I worked on as a project for my Blockchain Systems and Algorithms course.
 
