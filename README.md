@@ -86,6 +86,9 @@ I am eager to leverage my passion for decentralized technology and my strong fou
 ### [My Blockchain](MyBlockchain/)
 - A group project in my blockchain course where we implemented a blockchain in Java.
 
+### [Rust Blockchain](RustBlockchain/)
+- A translation of my [Java Blockchain](MyBlockchain/) in Rust, utilizing the unique abilities of the language.
+
 
 ---
 ## Interests
