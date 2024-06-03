@@ -14,11 +14,14 @@ I am eager to leverage my passion for decentralized technology and my strong fou
 
 ## Education
 
-### Bachelor of Science in Computer Science (EN)
+### Master of Sciecne in Computer Science, May 2025
 
    **Lehigh University** - Bethlehem, PA
 
-   *Expected Graduation: May 2024*
+### Bachelor of Science in Computer Science (EN), May 2024
+
+   **Lehigh University** - Bethlehem, PA
+
 
 ---
 
