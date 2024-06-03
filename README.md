@@ -14,7 +14,7 @@ I am eager to leverage my passion for decentralized technology and my strong fou
 
 ## Education
 
-### Master of Sciecne in Computer Science, May 2025
+### Master of Science in Computer Science, May 2025
 
    **Lehigh University** - Bethlehem, PA
 
